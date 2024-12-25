@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  url-shortener:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-12-25T09:00:09.042889-03:00"
+    description: Helm Chart for simple back-end applications
+    digest: 360448023131287d84b43ce29de73fa42d65195048062b160bf017735206282c
+    name: url-shortener
+    type: application
+    urls:
+    - https://guilhermefaleiros.github.io/helm-charts/url-shortener-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-12-25T09:00:09.041944-03:00"
