@@ -1,5 +1,5 @@
 apiVersion: v2
-name: url-shortener
+name: simple-backend-app
 description: Helm Chart for simple back-end applications
 type: application
 version: 0.1.0
